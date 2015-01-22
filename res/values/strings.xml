@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SumGen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_">SumGen</string>
+    <string name="url_hint">Enter the URL</string>
+    <string name="summarize_button">SUMMARIZE</string>
+    <string name="summary">SUMMARY</string>
+    <string name="title_activity_output">SumGen</string>
+
+</resources>
